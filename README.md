@@ -17,6 +17,4 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/Ua4KfhoKV_QAAAAC/baby-yoda.gif">
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
