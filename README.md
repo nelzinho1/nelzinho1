@@ -14,7 +14,6 @@
   <img align="center" alt="Emanuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emanuel-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Emanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Emanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Emanuel-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/Ua4KfhoKV_QAAAAC/baby-yoda.gif">
 </div>
   
