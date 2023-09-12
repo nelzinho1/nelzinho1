@@ -1,9 +1,9 @@
 ## Oiii eu sou o Emanuel F Souza, Estudante de programação e tecnologia!
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/nelzinho1">
- <!-- <img height="180em" src=""/>
-  <img height="180em" src=""/>-->
-</div>
+  <img height="180em" src=""/>
+  <img height="180em" src=""/>
+</div>-->
 
   <a href="https://www.linkedin.com/in/emanuel-fernandes-souza-685b75186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
